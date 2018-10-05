@@ -1,11 +1,10 @@
 #### General information about the project    ####
 #### All this will be visible on DataCamp.com ####
-title          : "Sequence in Recommender System"
+title          : "KNN Colaborative Filtering"
 description    : >
-  A short description of the project, Max 100 characters. 
+  Phương pháp tiếp cận Knearestneighbor. 
 long_description: |
-  A longer description of the project around 6 - 10 lines (where a line is 80 characters). Written in markdown.
-  Should mention and link to prerequisite courses.
+  Sử dụng thuật toán KNN để đưa ra dự đoán rating cho sản phẩm.
 time_needed: "45 minutes" # "30/45/60 minutes".
 
 
